@@ -26,6 +26,6 @@ This CRUD-based system allows you to **add**, **view**, **edit**, and **delete**
 
 
 # 📷 Screenshots
----<img width="1379" alt="Screenshot 2025-06-12 at 10 50 38 AM" src="https://github.com/user-attachments/assets/6dca7876-2706-4907-baeb-3ae40f3fe470" />
+<img width="1379" alt="Screenshot 2025-06-12 at 10 50 38 AM" src="https://github.com/user-attachments/assets/6dca7876-2706-4907-baeb-3ae40f3fe470" />
 
 
